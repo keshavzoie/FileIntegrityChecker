@@ -1,0 +1,2 @@
+python file_integrity_checker.py --generate test_files
+python file_integrity_checker.py --verify manifest.json
